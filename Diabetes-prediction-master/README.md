@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/github_Abhayparashar/Diabetes-prediction">
+  <a href="https://github.com/abhishekrathore9803/Diabities-Prediction12/edit/main/Diabetes-prediction-master/">
     <img src="images/profile.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -9,12 +9,12 @@
   <p align="center">
     In this i've tried to predict the probability of a person having diabetes based on some data fields...
     <br />
-    <a href="https://abhay31-diabetes-prediction.herokuapp.com/"><strong>View Project »</strong></a>
+    <a href="https://github.com/abhishekrathore9803/Diabities-Prediction12/edit/main/Diabetes-prediction-master/"><strong>View Project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Abhayparashar31/Diabetes-prediction">View Codes</a>
+    <a href="https://github.com/abhishekrathore9803/Diabities-Prediction12/edit/main/Diabetes-prediction-master/">View Codes</a>
     ·
-    <a>Report Bug -> parasharabhay13@gmail.com</a>
+    <a>Report Bug -> abhishekrathore2331@gmail.com</a>
     
   </p>
 </p>
@@ -37,11 +37,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Project
 
- <a href="https://github.com/github_Abhayparashar/price-compare-app">
-    <img src="images/img.png">   <img src="images/img1.png"> <img src="images/img2.png">
-  </a>
 
-`Abhayparashar31`, `Diabetes-prediction`,  `parasharabhay13@gmail.com`
+
+
 
 
 ### Built With
@@ -71,15 +69,7 @@ Version python 3.8 <
 
 ### Installation
  
-1. Clone the repo
-```
-git clone https://github.com/github_Abhayparashar31/Diabetes-prediction.git
-```
-2. Install Python Libraries
-```
-pip install pandas,sklearn,numpy,matplotlib,flask
 
-```
 
 3. Required Imports:
 ```
@@ -91,7 +81,6 @@ import pickle
 ```
 ## Contributers
 
-Abhayparashar31
 
 
 
@@ -101,13 +90,6 @@ Abhayparashar31
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - Abhayparashar31
-
-Project Link: [https://github.com/Abhayparashar31/Diabetes-prediction/](https://github.com/Abhayparashar31/Diabetes-prediction/)
 
 
 ## References
